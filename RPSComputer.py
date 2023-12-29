@@ -4,7 +4,7 @@ print("...ROCK...")
 print("...PAPER...")
 print("...SCISSOR...")
 
-player = input("Take Your move:\n").lower()
+player = input("Take Your move:\n").lower() #input().lower lowecases Uppercase characters
 
 randomNumber = randint(0,2) # randint() give random numbers between 0 and 2 inclusive
 if randomNumber == 0: 

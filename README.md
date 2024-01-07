@@ -14,4 +14,4 @@ Welcome to the Rock-Paper-Scissors game! This simple Python script allows you to
 
 ## Usage
 ```bash
-python rock_paper_scissors.py
+python RPSComputer.py
